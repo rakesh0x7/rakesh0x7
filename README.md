@@ -6,7 +6,6 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science Engineering at GVP.
 - 🌱 &nbsp; Learning more about Ethical Hacking , Web Pentesting.
--
 
 <h3>🛠 Tech Stack</h3>
 
@@ -15,12 +14,10 @@
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Git 
 
-<br/>
-
 <!--[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakesh1635&show_icons=true)](https://github.com/rakesh1635)-->
 
 <h3> 🤝🏻 Connect with Me </h3>
-<br/>
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rakesh-kumar-4086381b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rakesh%20kumar-blue?style=flat-square&logo=linkedin"></a>
