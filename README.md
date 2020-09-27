@@ -1,5 +1,5 @@
 
-<h2> I'm Rakesh.</h2>
+<h2>Hey I'm Rakesh.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -20,7 +20,7 @@
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakesh1635&show_icons=true)](https://github.com/rakesh1635)
 
 <h3> 🤝🏻 Connect with Me </h3>
-
+<br/>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rakesh-kumar-4086381b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rakesh%20kumar-blue?style=flat-square&logo=linkedin"></a>
