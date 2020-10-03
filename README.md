@@ -9,9 +9,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | C
+- 💻 &nbsp; Python | C++ | C
 - 🌐 &nbsp; HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL 
+- 🛢 &nbsp; SQL 
 - 🔧 &nbsp; Git 
 
 <!--[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakesh1635&show_icons=true)](https://github.com/rakesh1635)-->
