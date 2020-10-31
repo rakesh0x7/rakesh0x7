@@ -14,7 +14,7 @@
 - 🛢 &nbsp; SQL 
 - 🔧 &nbsp; Git 
 
-<!--[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakesh1635&show_icons=true)](https://github.com/rakesh1635)-->
+[![rakesh1635's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakesh1635&show_icons=true)](https://github.com/rakesh1635)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
