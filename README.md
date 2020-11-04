@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
+- 🌍 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science Engineering at GVP.
 - 🌱 &nbsp; Learning more about Ethical Hacking , Web Pentesting.
 
