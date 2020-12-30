@@ -2,6 +2,7 @@
 <h2> Hi, I'm Rakesh</h2>
 <p><em>Security Enthusist and Bugbounty Hunter <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
  </em></p>
+ 
  <h3> 👨🏻‍💻 About Me </h3>
 - 🌍 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science Engineering at GVP.
@@ -33,6 +34,7 @@ func main() {
 - 🔧 &nbsp; Git -->
 
 <!--[![rakesh1635's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakesh1635&show_icons=true)](https://github.com/rakesh1635)-->
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
