@@ -1,10 +1,10 @@
 
 <h2> Hi, I'm Rakesh</h2>
 <p><em>Security Enthusist and Bugbounty Hunter <br>
+ 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
  </em></p>
- 
-<h3> 👨🏻‍💻 About Me </h3>
+ <h3> 👨🏻‍💻 About Me </h3>
 
 - 🌍 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science Engineering at GVP.
