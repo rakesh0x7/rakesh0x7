@@ -36,7 +36,7 @@ func main() {
 - 🛢 &nbsp; SQL 
 - 🔧 &nbsp; Git -->
 
-<!--[![rakesh1635's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakesh1635&show_icons=true)](https://github.com/rakesh1635)-->
+<!--[![deephunt3r's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deephunt3r&show_icons=true)](https://github.com/deephunt3r)-->
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
