@@ -45,6 +45,6 @@ func main() {
 <a href="https://www.instagram.com/rakesh._.21/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rakesh-blue?style=flat-square&logo=instagram"></a>
 
 </p>
-
+<!--
 #### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{deephunt3r}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{deephunt3r}/count.svg)-->
