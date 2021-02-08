@@ -44,7 +44,7 @@ func main() {
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rakesh-kumar-4086381b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rakesh%20kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rakesh-vaddi-4086381b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rakesh%20kumar-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/rakesh._.21/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rakesh-blue?style=flat-square&logo=instagram"></a>
 
