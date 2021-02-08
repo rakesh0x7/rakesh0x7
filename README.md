@@ -38,6 +38,10 @@ func main() {
 <!--[![deephunt3r's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deephunt3r&show_icons=true)](https://github.com/deephunt3r)-->
 <h3> 🤝🏻 Connect with Me </h3>
 
+
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=deephunt3r" alt="deephunt3r" /> </p>-->
+
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rakesh-kumar-4086381b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rakesh%20kumar-blue?style=flat-square&logo=linkedin"></a>
