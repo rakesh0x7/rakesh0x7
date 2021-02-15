@@ -13,8 +13,10 @@
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/deephunt3r/deephunt3r/blob/master/image.gif">
 </a>
-<!--<h2>  I'm Rakesh</h2>
-<p><em>Security Enthusiast and Bugbounty Hunter  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p> -->
+<h2>   Rakesh here </h2>
+<em>Security Enthusiast and Bugbounty Hunter  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
+ <h3> 👨🏻‍💻 About Me </h3>
+ 
   - 🔭 I’m currently working on **Web Application pentesting**
   
   - 🌱 I’m currently learning **DSA AND PYTHON**
