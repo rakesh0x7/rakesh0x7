@@ -23,15 +23,15 @@
   
   - 👯 I’m looking to collaborate on **Bugbounty**
   
-  - 🤔 I’m looking for help with **Internships**
-  
   - 😄 Pronouns : **He/Him/His**
+
 
 <p align="center">
    <img src="https://gpvc.arturio.dev/deephunt3r" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/deephunt3r?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/deephunt3r?label=Stars" alt="Total Stars">
 </p>
+
 <p align="center">
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deephunt3r&theme=dark&hide_border=true"/>
