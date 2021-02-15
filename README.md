@@ -16,9 +16,13 @@
 <!--<h2>  I'm Rakesh</h2>
 <p><em>Security Enthusiast and Bugbounty Hunter  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p> -->
   - 🔭 I’m currently working on **Web Application pentesting**
-  - 🌱 I’m currently learning **DSA AND PYTHON **
+  
+  - 🌱 I’m currently learning **DSA AND PYTHON**
+  
   - 👯 I’m looking to collaborate on **Bugbounty**
+  
   - 🤔 I’m looking for help with **Internships**
+  
   - 😄 Pronouns : **He/Him/His**
 
 <p align="center">
