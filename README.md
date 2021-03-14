@@ -13,8 +13,17 @@
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/deephunt3r/deephunt3r/blob/master/image.gif">
 </a>
+<!--
 <h2>   Rakesh here </h2>
-<em>Security Enthusiast and Bugbounty Hunter  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
+<em>Security Enthusiast and Bugbounty Hunter  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>-->
+<h1 align="center">Hi 👋 I'm Rakesh</h1>
+<h3 align="center">A Bugbounty Hunter and open-source enthusiast✨</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rakesh-vaddi-4086381b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakesh-vaddi-4086381b2" height="30" width="30" /></a>
+<a href="https://www.instagram.com/rakesh._.21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rakesh._.21" height="30" width="30" /></a>
+<a href="https://medium.com/@deephunt3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deephunt3r" height="30" width="30" />
+</p>
  <h3> 👨🏻‍💻 About Me </h3>
  
   - 🔭 I’m currently working on **Web Application pentesting**
@@ -48,7 +57,7 @@
 </p>
 </details>
 </br>
-
+<!--
 <h1>
   Connect With Me <a target="_blank"></a>
 </h1>
@@ -56,7 +65,8 @@
 <a href="https://www.linkedin.com/in/rakesh-vaddi-4086381b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rakesh%20kumar-blue?style=flat-square&logo=linkedin"></a></br>
 <p align="center">
 <a href="https://www.instagram.com/rakesh._.21/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rakesh-blue?style=flat-square&logo=instagram"></a>
+<p align="center">
+<a href="https://medium.com/@deephunt3r" target="blank">You can read my blogs here<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deephunt3r" height="30" width="30" /></a>-->
 
-#
 
 ![](https://github.com/deephunt3r/deephunt3r/blob/master/footer.png)
