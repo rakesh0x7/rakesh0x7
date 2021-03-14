@@ -7,7 +7,6 @@
     <img src="https://github.com/deephunt3r/deephunt3r/blob/master/Hi.gif" width="40px" />
   </a>
 </h1>
-
 <br/>
 <br/>
 <a target="_blank">
@@ -16,9 +15,8 @@
 <!--
 <h2>   Rakesh here </h2>
 <em>Security Enthusiast and Bugbounty Hunter  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>-->
-<h1 align="center">Hi 👋 I'm Rakesh</h1>
+<h1 align="center">I'm Rakesh</h1>
 <h3 align="center">A Bugbounty Hunter and open-source enthusiast✨</h3>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/rakesh-vaddi-4086381b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakesh-vaddi-4086381b2" height="30" width="30" /></a>
 <a href="https://www.instagram.com/rakesh._.21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rakesh._.21" height="30" width="30" /></a>
