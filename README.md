@@ -2,7 +2,7 @@
   <a target="_blank">
     <img src="https://github.com/deephunt3r/deephunt3r/blob/master/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! I'm Rakesh
   <a target="_blank">
     <img src="https://github.com/deephunt3r/deephunt3r/blob/master/Hi.gif" width="40px" />
   </a>
@@ -14,8 +14,8 @@
 </a>
 <!--
 <h2>   Rakesh here </h2>
-<em>Security Enthusiast and Bugbounty Hunter  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>-->
-<h1 align="center">I'm Rakesh</h1>
+<em>Security Enthusiast and Bugbounty Hunter  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
+<h1 align="center">I'm Rakesh</h1>-->
 <h3 align="center">A Bugbounty Hunter and open-source enthusiast✨</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rakesh-vaddi-4086381b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakesh-vaddi-4086381b2" height="30" width="30" /></a>
