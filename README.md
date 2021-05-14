@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Bugbounty Hunter and open-source enthusiast✨</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rakesh-vaddi-4086381b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakesh-vaddi-4086381b2" height="30" width="30" /></a>
-<a href="https://www.instagram.com/rakesh._.21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rakesh._.21" height="30" width="30" /></a>
+<a href="https://www.instagram.com/rakesh._.21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rakesh._.116" height="30" width="30" /></a>
 <a href="https://medium.com/@deephunt3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deephunt3r" height="30" width="30" />
 </p>
  <h3> 👨🏻‍💻 About Me </h3>
