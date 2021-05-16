@@ -16,6 +16,7 @@
   - 💬 Ask me about **anything(would definitely try helping you out)**
   - 😄 Pronouns : **He/Him/His**
 
+<!--[![Rakesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deephunt3r&theme=xcode)](https://git.io/deephunt3r)-->
 
 <p align="center">
    <img src="https://gpvc.arturio.dev/deephunt3r" alt="profile views"> •  
