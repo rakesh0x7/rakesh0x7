@@ -11,7 +11,7 @@
 </p>
  <h3> 👨🏻‍💻 About Me </h3>
  
-  - 🌱 I’m currently learning **Dsa and Python**
+  - 🌱 I’m currently learning **OS**
   - 👯 I’m looking to collaborate on **Open source projects**
   - 💬 Ask me about **anything(would definitely try helping you out)**
   - 😄 Pronouns : **He/Him/His**
