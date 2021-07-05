@@ -1,5 +1,5 @@
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/deephunt3r/deephunt3r/blob/master/image.gif">
+  <img align="right" height="250" width="300" alt="GIF" src="https://github.com/deephunt3r/deephunt3r/blob/master/image.gif">
 </a>
 
 <h1 style= "color: red;" align="center">Hi, I'm Rakesh (He/Him) 👋</h1>
