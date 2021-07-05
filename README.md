@@ -2,8 +2,11 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/deephunt3r/deephunt3r/blob/master/image.gif">
 </a>
 
-<h1 style= "color: red;" align="center">Hi 👋 I'm Rakesh</h1>
-<h3 align="center">A passionate Bugbounty Hunter and open-source enthusiast✨</h3>
+<h1 style= "color: red;" align="center">Hi, I'm Rakesh (He/Him) 👋</h1>
+<p align="center">
+  <a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+passionate+Bugbounty+Hunter;I'm+a+Open-source+enthusiast;;&center=true&width=470&height=45">
+</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/rakesh116/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakesh-vaddi-4086381b2" height="30" width="30" /></a>
 <a href="https://www.instagram.com/rakesh._.116/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rakesh._.116" height="30" width="30" /></a>
