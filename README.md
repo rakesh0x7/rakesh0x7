@@ -3,7 +3,7 @@
 </a>
 
 <h1 style= "color: red;" align="center">Hi, I'm Rakesh (He/Him) 👋</h1>
-<p >
+<p align="center" >
   <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+passionate+Bugbounty+Hunter;I'm+a+Open-source+enthusiast;&width=470&height=45">
 </p>
 <p align="center">
