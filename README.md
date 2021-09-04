@@ -2,7 +2,7 @@
   <img align="right" height="250" width="300" alt="GIF" src="https://github.com/deephunt3r/deephunt3r/blob/master/image.gif">
 </a>
 
-<h1 style= "color: red;" align="center">Hi, I'm Root (He/Him) 👋</h1>
+<h1 style= "color: red;" align="center">Hi, I'm Rakesh (He/Him) 👋</h1>
 <p align="center" >
   <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+passionate+Bugbounty+Hunter;I'm+a+Open-source+enthusiast;I'm+a+Frontend-Developer;&width=470&height=45">
 </p>
