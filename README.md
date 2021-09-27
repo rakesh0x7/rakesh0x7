@@ -20,6 +20,10 @@
 
 <!--[![Rakesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deephunt3r&theme=xcode)](https://git.io/deephunt3r)-->
 
+  
+-  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/deephunt3r)
+  
+
 <p align="center">
    <img src="https://gpvc.arturio.dev/deephunt3r" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/deephunt3r?label=Followers&style=social"> •   
