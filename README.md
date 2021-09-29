@@ -1,28 +1,27 @@
-<a target="_blank">
-  <img align="right" height="250" width="300" alt="GIF" src="https://github.com/deephunt3r/deephunt3r/blob/master/image.gif">
-</a>
 
-<h1 style= "color: red;" align="center">Hi, I'm Rakesh (He/Him) 👋</h1>
+ <h1 style= "color: red;" align="center">Hi, I'm Rakesh (He/Him) 👋</h1>
 <p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+passionate+Bugbounty+Hunter;I'm+a+Open-source+enthusiast;I'm+a+Frontend-Developer;&width=470&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Open%20source%20for%20the%20win!;I'm+a+passionate+Bugbounty+Hunter;I'm+a+Open-source+enthusiast;I'm+a+Frontend-Developer;">
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/rakesh116/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakesh-vaddi-4086381b2" height="30" width="30" /></a>
-<a href="https://www.instagram.com/rakesh._.116/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rakesh._.116" height="30" width="30" /></a>
-<a href="https://medium.com/@deephunt3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deephunt3r" height="30" width="30" />
-</p>
+ <p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="40%" height="40%"/></p>
+
+
+
  <h3> 👨🏻‍💻 About Me </h3>
  
-  - 🌱 I’m currently learning **OS**
-  - 👯 I’m looking to collaborate on **Open source projects**
+  - 🌱 I’m currently learning **Devops**
+  - 👯 I’m looking to collaborate on **Problem-Solving**
+  - 🤔 Exploring new technologies and developing software solutions and quick hacks.
   - 💬 Ask me about **anything(would definitely try helping you out)**
   - 😄 Pronouns : **He/Him/His**
+ 
 
 <!--[![Rakesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deephunt3r&theme=xcode)](https://git.io/deephunt3r)-->
 
   
--  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/deephunt3r)
-  
+<!-- -  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/deephunt3r)
+   -->
 
 <p align="center">
    <img src="https://gpvc.arturio.dev/deephunt3r" alt="profile views"> •  
@@ -35,6 +34,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deephunt3r&theme=dark&hide_border=true"/>
   </a>
 </p>
+
 <br>
 <p align="center">
 <a href="https://github.com/deephunt3r">
@@ -47,7 +47,23 @@
 </p>
 </details>
 </br>
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> Let's connect </h2></summary>
 
-
+<!-- <p align="center">
+<a href="https://www.linkedin.com/in/rakesh116/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakesh-vaddi-4086381b2" height="30" width="30" /></a>
+<a href="https://www.instagram.com/rakesh._.116/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rakesh._.116" height="30" width="30" /></a>
+<a href="https://medium.com/@deephunt3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@deephunt3r" height="30" width="30" />
+</p>
+   -->
+<p align="center">
+<!--   <a href="https://rakesh.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
+	<a href="mailto:rakeshvaddi1116@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/deephunt3r"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/rakesh116"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.twitter.com/deephunt3r"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://instagram.com/rakesh._.116"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+<!-- 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
+	
+</p>
 
 ![](https://github.com/deephunt3r/deephunt3r/blob/master/footer.png)
