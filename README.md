@@ -1,16 +1,16 @@
 
- <h1 style= "color: red;" align="center">Hi, I'm Rakesh (He/Him) 👋</h1>
-<p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Open%20source%20for%20the%20win!;I'm+a+passionate+Bugbounty+Hunter;I'm+a+Open-source+enthusiast;I'm+a+Frontend-Developer;">
-</p>
- <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="40%" height="40%"/></p>
+<h1 style= "color: red;" align="center">Hi, I'm Rakesh (He/Him) 👋</h1>
 
+<p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Open%20source%20for%20the%20win!;I'm+a+passionate+Bugbounty+Hunter;I'm+a+Open-source+enthusiast;I'm+a+Frontend-Developer;"></p>
+
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="40%" height="40%"/></p>
+ 
 <p align="center">
    <img src="https://gpvc.arturio.dev/deephunt3r" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/deephunt3r?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/deephunt3r?label=Stars" alt="Total Stars">
-</p>
+  <img src="https://img.shields.io/github/stars/deephunt3r?label=Stars" alt="Total Stars"></p>
 
  <h3> 👨🏻‍💻 About Me </h3>
  
@@ -37,8 +37,6 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>   
     <a href="https://cloud.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-
-
 </p>
   
 ## ⚙️ GitHub Stats
@@ -46,22 +44,20 @@
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deephunt3r&theme=dark&hide_border=true"/>
-  </a>
-</p>
-
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deephunt3r&theme=dark&hide_border=true"/></a></p>
 <br>
+
 <p align="center">
 <a href="https://github.com/deephunt3r">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deephunt3r&show_icons=true&hide_border=true&title_color=ff004e&amp&icon_color=FFFFFF&amp&text_color=4895ef&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 
-
+<br>
+<p align="center">
 <a href="https://github.com/deephunt3r">
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deephunt3r&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</a>
-</p>
-</details>
-</br>
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deephunt3r&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" /></a></p>
+	
+
+
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> Let's connect </h2></summary>
 
 
@@ -72,8 +68,6 @@
 	<a href="https://www.twitter.com/deephunt3r"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 	<a href="https://instagram.com/rakesh._.116"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://medium.com/@deephunt3r"><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png" alt="medium"/></a>
-<!-- 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
-	
-</p>
+<!-- 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> --></p>
 
 ![](https://github.com/deephunt3r/deephunt3r/blob/master/footer.png)
