@@ -14,7 +14,7 @@
 
  <h3> 👨🏻‍💻 About Me </h3>
  
-  - 🌱 I’m currently learning **Devops**
+  - 🌱 I’m currently learning **Cloud Computing**
   - 👯 I’m looking to collaborate on **Problem-Solving**
   - 🤔 Exploring new technologies and developing software solutions and quick hacks.
   - 💬 Ask me about **anything(would definitely try helping you out)**
