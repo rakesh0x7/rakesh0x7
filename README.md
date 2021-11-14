@@ -15,10 +15,10 @@
  <h3> 👨🏻‍💻 About Me </h3>
  
   - 🌱 I’m currently learning **Cloud Computing**
-  - 👯 I’m looking to collaborate on **Problem-Solving**
+  - 👯 I’m looking to collaborate on **Web Development**
   - 🤔 Exploring new technologies and developing software solutions and quick hacks.
   - 💬 Ask me about **anything(would definitely try helping you out)**
-  - 😄 Pronouns : **He/Him/His**
+  - 😄 Pronouns : **He/Him**
  
 
 <!--[![Rakesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deephunt3r&theme=xcode)](https://git.io/deephunt3r)-->
