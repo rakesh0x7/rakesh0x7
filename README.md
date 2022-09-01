@@ -1,8 +1,5 @@
 
 <h1 style= "color: red;" align="center">Hi, I'm Rakesh (He/Him) 👋</h1>
-
-<p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Open%20source%20for%20the%20win!;I'm+a+passionate+Bugbounty+Hunter;I'm+a+Open-source+enthusiast;I'm+a+Frontend-Developer;"></p>
 <p align="center">
  <img  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" align="center" width="50%" height="50%"/>
 
@@ -71,3 +68,8 @@
 <!-- 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> --></p>
 
 ![](https://github.com/deephunt3r/deephunt3r/blob/master/footer.png)
+	
+	
+	
+<!-- <p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Open%20source%20for%20the%20win!;I'm+a+passionate+Bugbounty+Hunter;I'm+a+Open-source+enthusiast;I'm+a+Frontend-Developer;"></p> -->
