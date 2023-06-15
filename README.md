@@ -6,9 +6,9 @@
 </p>
  
 <p align="center">
-   <img src="https://gpvc.arturio.dev/deephunt3r" alt="profile views"> •  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/deephunt3r?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/deephunt3r?label=Stars" alt="Total Stars"></p>
+   <img src="https://gpvc.arturio.dev/rakesh0x7" alt="profile views"> •  
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/rakesh0x7?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/rakesh0x7?label=Stars" alt="Total Stars"></p>
 
  <h3> 👨🏻‍💻 About Me </h3>
  
@@ -19,7 +19,7 @@
   - 😄 Pronouns : **He/Him**
  
 
-<!--[![Rakesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=deephunt3r&theme=xcode)](https://git.io/deephunt3r)-->
+<!--[![Rakesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rakesh0x7&theme=xcode)](https://git.io/rakesh0x7)-->
 
 ## 🚀 Languages and Tools:
 
@@ -42,17 +42,17 @@
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deephunt3r&theme=dark&hide_border=true"/></a></p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh0x7&theme=dark&hide_border=true"/></a></p>
 <br>
 
 <p align="center">
-<a href="https://github.com/deephunt3r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deephunt3r&show_icons=true&hide_border=true&title_color=ff004e&amp&icon_color=FFFFFF&amp&text_color=4895ef&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+<a href="https://github.com/rakesh0x7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakesh0x7&show_icons=true&hide_border=true&title_color=ff004e&amp&icon_color=FFFFFF&amp&text_color=4895ef&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 
 <br>
 <p align="center">
-<a href="https://github.com/deephunt3r">
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deephunt3r&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" /></a></p>
+<a href="https://github.com/rakesh0x7">
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh0x7&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" /></a></p>
 	
 
 
@@ -63,11 +63,11 @@
 	<a href="mailto:rakeshvaddi1116@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://linkedin.com/in/rakesh116"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.twitter.com/deephunt3r"><img src="https://img.icons8.com/bubbles/50/000000/twitter-squared.png"/></a>
-	<a href="https://instagram.com/rakesh._.116"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://instagram.com/rakesh0x7"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://medium.com/@deephunt3r"><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png" alt="medium"/></a>
 <!-- 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> --></p>
 
-![](https://github.com/deephunt3r/deephunt3r/blob/master/footer.png)
+![](https://github.com/rakesh0x7/rakesh0x7/blob/master/footer.png)
 	
 	
 	
