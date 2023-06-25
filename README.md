@@ -6,14 +6,14 @@
 </p>
  
 <p align="center">
-   <img src="https://gpvc.arturio.dev/rakesh0x7" alt="profile views"> •  
+<!--    <img src="https://gpvc.arturio.dev/rakesh0x7" alt="profile views"> •   -->
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/rakesh0x7?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/rakesh0x7?label=Stars" alt="Total Stars"></p>
 
  <h3> 👨🏻‍💻 About Me </h3>
  
-  - 🌱 I’m currently learning **Web Development**
-  - 👯 I’m looking to collaborate on **Bug Hunting**
+  - 🌱 I’m currently learning **Web3 Development**
+  - 👯 I’m looking to collaborate on **Bug Bounty And Web Dev**
   - 🤔 Exploring new technologies and developing software solutions and quick hacks.
   - 💬 Ask me about **anything(would definitely try helping you out)**
   - 😄 Pronouns : **He/Him**
